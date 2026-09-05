@@ -14,6 +14,8 @@ ESP32
 LiDAR
 Python
 C++
+
+
 Roadmap
 
 Simulação do robô
